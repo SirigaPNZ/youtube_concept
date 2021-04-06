@@ -1,5 +1,5 @@
 # Youtube_concept - учебный проект GloAcademy
-проект выполнен Siriga
+Проект выполнен Siriga
 
 ## Используемые технологии
 - HTML
